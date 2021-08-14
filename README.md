@@ -1,1 +1,3 @@
 # netdevops
+The netdevops repository is a basic repository to perform very basic show commands on the Cisco IOS devices. This is for any newbee engineer who wants to see how the Python interacts with Cisco IOS devices and what are the available options in terms of Troubleshooting the Cisco IOS voice gateway's/CUBE's. 
+This repository would maintain only Cisco CUBE or Cisco Voice Gateway related python codes. Developers are encouraged to add a branch to this repository in future. For now this is just a thought. Once I learn how to allow branches to this public repository, the authentication token will be shared. 
